@@ -40,7 +40,6 @@ public class HelloServlet2 extends HttpServlet {
 		   request.setCharacterEncoding("UTF-8");  
 		    response.setCharacterEncoding("GBK");  
 		PrintWriter writer=response.getWriter();
-		AsyncContext context=request.startAsync();
 		
 		writer.write("BBBBBBBBBBBBBBBBBBBBBBBBBBB"); 
 		
