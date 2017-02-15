@@ -1,5 +1,13 @@
 package org.sane.chapter2.model;
-
+/**
+ * 
+ * @Title: Customer
+ * @Package org.sane.chapter2.model
+ * @Description: 
+ * @Author muys2@lenovo.com
+ * @Date 2017年2月15日 下午9:47:30
+ * @Version V1.0
+ */
 public class Customer {
 
 	private int id;
